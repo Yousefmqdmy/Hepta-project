@@ -1,0 +1,50 @@
+.sixth-section {
+    width: 100%;
+    height: 731.9px;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.third-flex {
+    height: 100%;
+    width: 30%;
+}
+
+.co-v {
+    width: 88%;
+    height: 80%;
+}
+
+.cus-low {
+    gap: 0px;
+}
+
+.customers {
+    width: 100%;
+    height: 20%;
+    text-align: left;
+}
+
+.cu-pic {
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    opacity: inherit;
+}
+
+.cu-p {
+    color: #000000;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.scu-p {
+    color: #6C757D;
+    font-size: 18px;
+}
